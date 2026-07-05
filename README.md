@@ -51,3 +51,20 @@ dashboards/       Assessment dashboard examples
 diagrams/         Visual models
 evidence/         Use-case notes
 references/       Bibliography
+
+```
+
+## Start Here
+
+1. Read the toolkit overview and assessment methodology.
+2. Review the scoring model and executive reporting guidance.
+3. Use the checklists and questionnaires to collect evidence.
+4. Expand scorecards, dashboards, and remediation templates next.
+
+## Shared Direction
+
+Use this repository as the practical assessment layer for the broader governance ecosystem.
+
+## Core Content
+
+- [Assessment Plan](assessment-plan.md)
