@@ -4,7 +4,7 @@
 
 This repository provides a practical assessment toolkit for evaluating cloud governance, SRE maturity, disaster recovery readiness, FinOps practices, security controls, and operational resilience.
 
-The toolkit is designed for enterprise architects, cloud leaders, SRE teams, FinOps teams, and technology executives seeking structured evaluation of cloud operating maturity.
+The toolkit is designed for enterprise architects, cloud leaders, SRE teams, FinOps teams, security teams, and technology executives who need a structured way to assess operating maturity, capture evidence, and turn findings into a credible remediation plan.
 
 ## Assessment Areas
 
@@ -38,6 +38,22 @@ This toolkit helps organizations:
 - Strengthen compliance posture
 - Build executive-ready improvement roadmaps
 
+## How The Toolkit Is Used
+
+1. Define scope, stakeholders, and the operating domains under review.
+2. Collect evidence through questionnaires, interviews, dashboard exports, and policy artifacts.
+3. Score each domain using the shared maturity model and confidence rubric.
+4. Review findings with the business owner, platform owner, and control owner.
+5. Prioritize remediation by risk, effort, dependency, and business impact.
+6. Package the outcome into an executive summary and a sequenced roadmap.
+
+## Operating Principles
+
+- Use the same evidence set across governance, reliability, resilience, security, and FinOps so the assessment is reusable.
+- Keep scores traceable to supporting artifacts rather than relying on opinion-only assessments.
+- Separate current-state findings from target-state recommendations.
+- Write the output for executives first and implementers second.
+
 ## Repository Structure
 
 ```text
@@ -51,7 +67,6 @@ dashboards/       Assessment dashboard examples
 diagrams/         Visual models
 evidence/         Use-case notes
 references/       Bibliography
-
 ```
 
 ## Start Here
@@ -67,4 +82,9 @@ Use this repository as the practical assessment layer for the broader governance
 
 ## Core Content
 
-- [Assessment Plan](assessment-plan.md)
+- [Assessment Plan](docs/assessment-plan.md)
+- [Toolkit Overview](docs/toolkit-overview.md)
+- [Assessment Methodology](docs/assessment-methodology.md)
+- [Scoring Model](docs/scoring-model.md)
+- [Executive Reporting](docs/executive-reporting.md)
+- [Content Index](docs/content-index.md)
