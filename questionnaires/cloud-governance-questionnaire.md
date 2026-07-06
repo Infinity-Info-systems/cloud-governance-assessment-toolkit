@@ -5,3 +5,4 @@
 3. How are exceptions approved and tracked?
 4. What evidence proves governance is operating consistently?
 5. How are architecture decisions reviewed and recorded?
+6. Which gaps need leadership attention now?

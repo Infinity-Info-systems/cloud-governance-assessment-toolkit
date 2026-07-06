@@ -4,6 +4,7 @@
 
 The toolkit helps assessment teams evaluate how well cloud governance practices are working in the real operating environment.
 It provides the structure for collecting evidence, scoring current maturity, reviewing risk, and turning the result into a roadmap that leaders can act on.
+It is designed to keep the assessment reproducible and decision-ready.
 
 ## What It Covers
 
@@ -37,6 +38,11 @@ It provides the structure for collecting evidence, scoring current maturity, rev
 - each gap has an owner and an expected due date
 - each executive report highlights the business impact, not just the technical issue
 - each assessment can be repeated with the same method later for comparison
+- each recommendation is written as an actionable change
+
+## Practical Use
+
+Use this toolkit when you need a structured assessment that can support both operational improvement and executive decision-making.
 
 ## Success Criteria
 

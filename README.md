@@ -5,6 +5,7 @@
 This repository provides a practical assessment toolkit for evaluating cloud governance, SRE maturity, disaster recovery readiness, FinOps practices, security controls, and operational resilience.
 
 The toolkit is designed for enterprise architects, cloud leaders, SRE teams, FinOps teams, security teams, and technology executives who need a structured way to assess operating maturity, capture evidence, and turn findings into a credible remediation plan.
+It is intended to support repeatable assessments, executive decisions, and follow-through on remediation.
 
 ## Assessment Areas
 
@@ -16,6 +17,17 @@ The toolkit is designed for enterprise architects, cloud leaders, SRE teams, Fin
 - Architecture governance
 - Operational resilience
 - Executive reporting
+- Evidence traceability
+- Repeatable scoring
+- Remediation sequencing
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- methodology and framing
+- checklists, questionnaires, scorecards, and dashboards
+- templates and reference notes
 
 ## Toolkit Components
 
@@ -46,6 +58,7 @@ This toolkit helps organizations:
 4. Review findings with the business owner, platform owner, and control owner.
 5. Prioritize remediation by risk, effort, dependency, and business impact.
 6. Package the outcome into an executive summary and a sequenced roadmap.
+7. Reassess on a recurring cadence so improvement can be measured over time.
 
 ## Operating Principles
 
@@ -80,6 +93,10 @@ references/       Bibliography
 
 Use this repository as the practical assessment layer for the broader governance ecosystem.
 
+## Operating Principle
+
+Assessments should produce evidence-backed judgments that leaders can act on quickly without losing traceability.
+
 ## Core Content
 
 - [Assessment Plan](docs/assessment-plan.md)
@@ -88,3 +105,8 @@ Use this repository as the practical assessment layer for the broader governance
 - [Scoring Model](docs/scoring-model.md)
 - [Executive Reporting](docs/executive-reporting.md)
 - [Content Index](docs/content-index.md)
+- [Governance Maturity Model](maturity-model/governance-maturity-model.md)
+- [Assessment Dashboard](dashboards/assessment-dashboard.md)
+- [Assessment Report Template](templates/assessment-report-template.md)
+- [Executive Summary Template](templates/executive-summary-template.md)
+- [Remediation Roadmap Template](templates/remediation-roadmap-template.md)

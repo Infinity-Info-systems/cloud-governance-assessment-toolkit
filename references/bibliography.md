@@ -15,3 +15,7 @@
 - platform runbooks
 - incident reviews
 - architecture standards
+
+## Reference Rule
+
+Keep references aligned to the assessment domains so the toolkit remains useful as a practical review aid.

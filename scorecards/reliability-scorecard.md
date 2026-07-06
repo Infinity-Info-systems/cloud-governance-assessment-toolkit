@@ -25,3 +25,7 @@ Assess how well the operating model supports stable services, fast recovery, and
 - low score: reactive operations with limited measurement
 - mid score: defined processes with mixed adoption
 - high score: measured reliability with active improvement loops
+
+## Use
+
+Use this scorecard to compare how well services are operating, recovering, and improving over time.

@@ -27,3 +27,7 @@ Capture the risks created when governance controls are weak, unclear, or not bei
 - lack of periodic policy review
 - inconsistent evidence for control operation
 - no formal escalation path for repeated exceptions
+
+## Use
+
+Use this scorecard to capture governance failures that increase operational or compliance exposure.

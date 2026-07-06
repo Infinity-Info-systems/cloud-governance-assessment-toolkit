@@ -94,6 +94,11 @@ Use this plan to collect evidence, score maturity, and produce a remediation roa
 - keep the raw evidence register for future comparison
 - write recommendations as concrete actions, not abstract principles
 - make the roadmap reviewable by both executives and implementers
+- capture any disputed score with a confidence note
+
+## Plan Outcome
+
+The plan should leave the team with a repeatable assessment process, a defensible score set, and a clear next-step roadmap.
 
 ## Related Artifacts
 

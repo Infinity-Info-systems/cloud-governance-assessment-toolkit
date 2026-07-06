@@ -12,6 +12,7 @@ Each assessment moves from scope to evidence capture to scoring to validation to
 - Distinguish between policy existence and policy execution.
 - Treat lack of evidence as a risk signal.
 - Prefer repeatable scoring over one-off judgment.
+- Separate maturity scoring from risk scoring.
 
 ## Assessment Steps
 
@@ -66,6 +67,10 @@ Each assessment moves from scope to evidence capture to scoring to validation to
 - key risks
 - evidence appendix
 - remediation roadmap
+
+## Method Outcome
+
+The methodology should keep assessments consistent enough to compare over time while still allowing the reviewer to explain context.
 
 ## Quality Checks
 

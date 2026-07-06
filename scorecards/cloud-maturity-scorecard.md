@@ -29,3 +29,7 @@ Measure how consistently cloud governance, control execution, and operating disc
 - policy exceptions
 - control reports
 - review meeting outputs
+
+## Use
+
+Use this scorecard to summarize whether cloud governance is mature enough to support execution at scale.

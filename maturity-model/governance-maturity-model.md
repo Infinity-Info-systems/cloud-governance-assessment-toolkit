@@ -39,3 +39,7 @@
 - control attestations
 - exception tracking
 - remediation follow-through
+
+## Use
+
+Use this model to understand whether governance is still ad hoc or already operating as a repeatable management practice.

@@ -52,3 +52,8 @@ Executive reporting translates assessment findings into a concise view of busine
 - specific enough to drive decisions
 - traceable enough to stand up in review
 - structured enough to reuse across business units
+- clear about what happens next
+
+## Reporting Outcome
+
+Executive reporting should make the decision obvious, not just summarize the assessment.

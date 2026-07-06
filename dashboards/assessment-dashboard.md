@@ -6,6 +6,7 @@
 - average maturity score
 - high-priority findings
 - remediation progress
+- confidence by domain
 
 ## Suggested Views
 
@@ -14,6 +15,10 @@
 - confidence by finding
 - action status by owner
 - trend over time
+
+## Dashboard Intent
+
+Use the dashboard to show the overall assessment picture quickly and make the next decision obvious.
 
 ## Decision Questions
 

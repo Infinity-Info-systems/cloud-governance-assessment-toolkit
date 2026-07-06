@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for cloud governance assessment, maturity scoring, and remediation planning.
+Use it to get from scope definition to the exact assessment artifact you need.
 
 ## Entry Points
 
@@ -43,7 +44,16 @@ This index organizes the repo into a front door for cloud governance assessment,
 - [Bibliography](../references/bibliography.md)
 - [Use-Case Notes](../evidence/use-case-notes.md)
 
+## Reading Order
+
+1. Toolkit overview
+2. Assessment methodology
+3. Scoring model
+4. Relevant checklist and questionnaire
+5. Scorecard and dashboard
+6. Executive reporting and roadmap
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so assessment content stays reusable and easy to extend.
-
+Keep each page short enough to review and clear enough to support evidence-based decisions.

@@ -43,3 +43,7 @@ Describe whether the environment is stable, improving, or under material risk.
 ## Decision Request
 
 State what approval, funding, or prioritization is needed from leadership.
+
+## Summary Rule
+
+The summary should tell leadership what is true now, what matters most, and what decision is needed next.

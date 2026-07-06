@@ -72,3 +72,7 @@
 - checklist results
 - source artifacts
 - notes and assumptions
+
+## Report Rule
+
+Keep the report structured so a reader can move from summary to evidence without losing the thread.

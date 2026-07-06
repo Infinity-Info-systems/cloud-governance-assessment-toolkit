@@ -5,3 +5,4 @@
 3. When was the last failover or restore test?
 4. What dependencies affect recovery timing?
 5. What gaps remain in the current plan?
+6. Which recovery assumptions are untested?

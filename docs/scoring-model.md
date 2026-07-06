@@ -40,6 +40,10 @@ Use a separate risk rating to avoid confusing maturity with exposure.
 | High | Significant exposure or executive concern |
 | Critical | Immediate action required |
 
+## Confidence Rule
+
+If confidence is low, the score should be reviewed more carefully before it is used for executive decisions.
+
 ## Confidence Overlay
 
 | Confidence | Meaning |
@@ -60,3 +64,7 @@ Use a separate risk rating to avoid confusing maturity with exposure.
 - a high score with low confidence should still be reviewed carefully
 - a lower score with strong evidence is more trustworthy than a higher score with weak support
 - the best roadmap focuses on the highest-risk, most-improvable gaps first
+
+## Use
+
+Use the scoring model to keep domain scoring consistent and transparent across assessment cycles.

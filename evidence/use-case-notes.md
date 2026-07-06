@@ -20,3 +20,7 @@
 - adapt the same structure for each business unit
 - keep one evidence register per assessment cycle
 - compare trend over time rather than isolated snapshots
+
+## Use
+
+Use these notes to keep recurring assessments comparable and easy to explain to stakeholders.
