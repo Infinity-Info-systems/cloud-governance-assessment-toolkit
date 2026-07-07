@@ -3,6 +3,7 @@
 ## Purpose
 
 Executive reporting translates assessment findings into a concise view of business risk, operating maturity, and the actions required to improve.
+It should make the assessment understandable in one pass for leaders who do not need the full evidence trail.
 
 ## Report Structure
 
@@ -38,6 +39,10 @@ Executive reporting translates assessment findings into a concise view of busine
 - owner accountability status
 - 30/60/90 day remediation view
 
+## Use
+
+Use this page when turning the raw assessment into a leadership-ready story with ownership and next steps.
+
 ## Metrics To Highlight
 
 - score trend by domain
@@ -57,3 +62,4 @@ Executive reporting translates assessment findings into a concise view of busine
 ## Reporting Outcome
 
 Executive reporting should make the decision obvious, not just summarize the assessment.
+If a finding does not change the decision, it should not take up much space in the executive report.

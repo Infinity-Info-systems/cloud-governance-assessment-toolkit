@@ -1,5 +1,9 @@
 # Assessment Methodology
 
+## Purpose
+
+This page explains how the toolkit is used to collect evidence, score maturity, and produce an actionable outcome.
+
 ## Method Summary
 
 The methodology is evidence-led, interview-supported, and score-based.
@@ -71,6 +75,14 @@ Each assessment moves from scope to evidence capture to scoring to validation to
 ## Method Outcome
 
 The methodology should keep assessments consistent enough to compare over time while still allowing the reviewer to explain context.
+
+## Use
+
+Use this page to keep the assessment consistent across teams and over time.
+
+## Outcome
+
+A clear methodology makes the assessment repeatable and easier to trust.
 
 ## Quality Checks
 

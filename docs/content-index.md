@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for cloud governance assessment, maturity scoring, and remediation planning.
 Use it to get from scope definition to the exact assessment artifact you need.
+The content is ordered so a reviewer can move from framing into evidence and then into action planning.
 
 ## Entry Points
 
@@ -57,3 +58,4 @@ Use it to get from scope definition to the exact assessment artifact you need.
 
 Use the same section structure as the other core repos so assessment content stays reusable and easy to extend.
 Keep each page short enough to review and clear enough to support evidence-based decisions.
+If a page does not help the assessment move toward a conclusion, fold that detail into a checklist, template, or appendix note.
