@@ -7,6 +7,18 @@ It provides the structure for collecting evidence, scoring current maturity, rev
 It is designed to keep the assessment reproducible and decision-ready.
 It should make it easier to compare one environment to another without losing nuance.
 
+## Assessment Flow
+
+```mermaid
+flowchart LR
+    A["Scope"] --> B["Evidence"]
+    B --> C["Score"]
+    C --> D["Validate"]
+    D --> E["Report"]
+    E --> F["Remediate"]
+    F --> G["Reassess"]
+```
+
 ## What It Covers
 
 - governance ownership and decision rights
@@ -32,6 +44,14 @@ It should make it easier to compare one environment to another without losing nu
 - checklists show whether the supporting controls actually exist
 - questionnaires capture stakeholder responses and evidence pointers
 - templates package the results for leadership and remediation teams
+
+## Output Layers
+
+| Layer | What It Captures | Best Artifact |
+| --- | --- | --- |
+| Evidence | Facts, screenshots, exports, and policy references | Checklists and questionnaires |
+| Assessment | Maturity, confidence, and risk judgment | Scorecards and scoring model |
+| Decision | Business impact and required action | Executive report and roadmap |
 
 ## What Good Looks Like
 
@@ -60,3 +80,9 @@ Use this toolkit when you need a structured assessment that can support both ope
 - clear separation of facts, interpretation, and recommendations
 - assessment findings that support prioritization
 - a roadmap that can be funded, tracked, and re-evaluated
+
+## Practical Boundaries
+
+- this toolkit should not be used as a one-size-fits-all control catalog
+- it is meant to support assessment and decision support, not policy authorship
+- detailed remediation work should be documented in the domain-specific repos

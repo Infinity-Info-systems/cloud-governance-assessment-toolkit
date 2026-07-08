@@ -6,6 +6,16 @@ This index organizes the repo into a front door for cloud governance assessment,
 Use it to get from scope definition to the exact assessment artifact you need.
 The content is ordered so a reviewer can move from framing into evidence and then into action planning.
 
+## Recommended Entry Sequence
+
+| Step | Start Here | Why |
+| --- | --- | --- |
+| 1 | Toolkit Overview | Establish the purpose and scope |
+| 2 | Assessment Methodology | Understand how evidence becomes a score |
+| 3 | Scoring Model | Align on maturity, risk, and confidence |
+| 4 | Executive Reporting | Shape the decision-ready output |
+| 5 | Checklists and Questionnaires | Collect evidence consistently |
+
 ## Entry Points
 
 - [Assessment Plan](assessment-plan.md)

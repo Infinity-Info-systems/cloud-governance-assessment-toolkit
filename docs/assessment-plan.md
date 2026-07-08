@@ -100,6 +100,17 @@ Use this plan to collect evidence, score maturity, and produce a remediation roa
 
 The plan should leave the team with a repeatable assessment process, a defensible score set, and a clear next-step roadmap.
 
+## Plan Visual
+
+```mermaid
+flowchart TB
+    S["Scope"] --> E["Evidence Collection"]
+    E --> R["Scoring"]
+    R --> V["Findings Review"]
+    V --> M["Remediation Planning"]
+    M --> F["Follow-Up"]
+```
+
 ## Related Artifacts
 
 - [Assessment Report Template](../templates/assessment-report-template.md)

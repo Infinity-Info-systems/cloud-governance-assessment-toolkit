@@ -39,6 +39,16 @@ It should make the assessment understandable in one pass for leaders who do not 
 - owner accountability status
 - 30/60/90 day remediation view
 
+## Executive Summary Table
+
+| Question | What The Report Should Say |
+| --- | --- |
+| What is working? | Identify the strongest domains and reusable controls |
+| What is exposed? | Call out the highest-risk gaps and why they matter |
+| What should happen first? | Name the first actions that reduce the most risk |
+| What needs leadership? | Highlight approvals, funding, or ownership decisions |
+| How will progress be measured? | Link the roadmap to follow-up scoring and evidence checks |
+
 ## Use
 
 Use this page when turning the raw assessment into a leadership-ready story with ownership and next steps.
@@ -63,3 +73,10 @@ Use this page when turning the raw assessment into a leadership-ready story with
 
 Executive reporting should make the decision obvious, not just summarize the assessment.
 If a finding does not change the decision, it should not take up much space in the executive report.
+
+## Suggested Visuals
+
+- domain score heat map
+- risk by owner matrix
+- 30/60/90 day roadmap view
+- evidence confidence summary
