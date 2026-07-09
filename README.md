@@ -112,6 +112,12 @@ It helps answer:
 - What should be fixed first?
 - What does the roadmap need to include?
 
+## Codebase Direction
+
+- use `src/` as the assessment registry and report layer
+- keep the Markdown docs as the operating model and narrative layer
+- use the sample assessment as the seed for future dashboards or app routes
+
 ## Core Content
 
 - [Assessment Plan](docs/assessment-plan.md)
